@@ -19,6 +19,26 @@ Both roles share one login system and one process (`streamlit run app.py`); the 
 
 ---
 
+## Screenshots
+
+Consumer role:
+
+| Scan a label | Health score and diet classification |
+|---|---|
+| <img src="docs/screenshots/scan-label.png" alt="Uploading a Japanese chocolate label" width="420"> | <img src="docs/screenshots/health-score.png" alt="Health score B (70/100) with vegan, vegetarian, keto and diabetic cards" width="420"> |
+
+| DRI profile | Smart pairing |
+|---|---|
+| <img src="docs/screenshots/dri-profile.png" alt="Personal DRI profile with BMI, calories and macronutrient targets" width="420"> | <img src="docs/screenshots/nutrient-gap.png" alt="Nutrient gap after scanned product and top pairing suggestion" width="420"> |
+
+<details>
+<summary>Pairing filters</summary>
+
+<img src="docs/screenshots/smart-pairing.png" alt="Smart pairing page with allergen exclusion and category filters" width="760">
+</details>
+
+---
+
 ## Contents
 
 - [Features](#features)
