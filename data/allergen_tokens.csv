@@ -1,0 +1,674 @@
+allergen_id,token,token_type,canonical_name
+1.0,coconut milk,derived,
+1.0,buffalo milk,derived,
+1.0,buttermilk,derived,
+1.0,pasteurised goat milk,derived,
+1.0,laguiole cheese from cow's milk,derived,
+1.0,skimmed milk powder,derived,
+1.0,sweetened condensed semi-skimmed milk,derived,
+1.0,yogurt from pasteurized milk with 3 5 milk fat,derived,
+1.0,blue cheese from cow's milk,derived,
+1.0,milk chocolate chips,derived,
+1.0,cream with 20% milk fat,derived,
+1.0,natural milk flavouring,derived,
+1.0,low moisture whole milk mozzarella,derived,
+1.0,sweetened condensed milk,derived,
+1.0,milk proteins,derived,
+1.0,hydrolysed milk protein,derived,
+1.0,milk protein isolate,derived,
+1.0,buttermilk powder,derived,
+1.0,milk flavouring,derived,
+1.0,semi-skimmed milk,derived,
+1.0,plain goat's milk yogurt with around 5% fat,derived,
+1.0,uht pasteurised whole milk,derived,
+1.0,whole milk powder,derived,
+1.0,saffron milk cap,derived,
+1.0,milkcap,derived,
+1.0,milk enriched with cream,derived,
+1.0,evaporated milk,derived,
+1.0,cream with 18% milk fat,derived,
+1.0,whole milk yogurt powder,derived,
+1.0,milk fat without lactose,derived,
+1.0,skim milk and pasteurized cream,derived,
+1.0,haymilk,derived,
+1.0,milk mineral concentrate,derived,
+1.0,goat's milk yogurt,derived,
+1.0,milk chocolate coating,derived,
+1.0,milk protein concentrate,derived,
+1.0,feta cheese from ewe's milk,derived,
+1.0,follow-on milk,derived,
+1.0,cheese made from pasteurized milk,derived,
+1.0,soy milk,derived,
+1.0,skimmed sheeps milk,derived,
+1.0,lactose and milk proteins,derived,
+1.0,milk chocolate,derived,
+1.0,buffalo milk cream,derived,
+1.0,cream with 36% milk fat,derived,
+1.0,sheep's-milk cheese,derived,
+1.0,pasteurized semi-skimmed milk,derived,
+1.0,cream with 33% milk fat,derived,
+1.0,soured milk,derived,
+1.0,pasteurised buffalo milk,derived,
+1.0,milk chocolate with sweetener,derived,
+1.0,yogurt from pasteurized milk with milk fat,derived,
+1.0,sweetened condensed whole milk,derived,
+1.0,fermented milk products,derived,
+1.0,bloody milk cap,derived,
+1.0,solid yogurt made from pasteurized milk with 3.2% milk fat,derived,
+1.0,whole milk mozzarella,derived,
+1.0,cream with 10% milk fat,derived,
+1.0,whole goat milk,derived,
+1.0,milk spread,derived,
+1.0,milk fat substitute,derived,
+1.0,semi-skimmed goat milk,derived,
+1.0,pasteurised whole milk,derived,
+1.0,organic milk proteins,derived,
+1.0,goat milk,derived,
+1.0,milk spread with coconut flavor,derived,
+1.0,milk and hazelnut coating,derived,
+1.0,milk spread with hazelnuts,derived,
+1.0,whole milk chocolate,derived,
+1.0,condensed whole milk,derived,
+1.0,whole sheep milk,derived,
+1.0,milkfat,derived,
+1.0,soft cheese made from pasteurized milk,derived,
+1.0,skimmed goat milk,derived,
+1.0,semi-skimmed pasteurized goat milk uht,derived,
+1.0,semi-skimmed milk powder,derived,
+1.0,camembert from pasteurised milk,derived,
+1.0,milk substitute,derived,
+1.0,tigernut milk,derived,
+1.0,oat milk,derived,
+1.0,milk minerals,derived,
+1.0,milk preparation,derived,
+1.0,belgian milk chocolate,derived,
+1.0,rice milk,derived,
+1.0,sheeps milk,derived,
+1.0,skim milk powder,ingredient,milk
+1.0,whey powder,ingredient,milk
+1.0,whey protein,ingredient,milk
+1.0,cheese,ingredient,milk
+1.0,cream cheese,ingredient,milk
+1.0,cottage cheese,ingredient,milk
+1.0,cheddar,ingredient,milk
+1.0,parmesan,ingredient,milk
+1.0,condensed milk,ingredient,milk
+1.0,ice cream,ingredient,milk
+1.0,curd,ingredient,milk
+1.0,sour cream,ingredient,milk
+1.0,whole goat milk uht,derived,
+1.0,cream with 12% milk fat,derived,
+1.0,pasteurized skimmed milk,derived,
+1.0,sheep and goat milk,derived,
+1.0,sweetened condensed skimmed milk,derived,
+1.0,milk coating,derived,
+1.0,second age baby milk powder,derived,
+1.0,uht sterilised skimmed milk,derived,
+1.0,buttermilk solids,derived,
+1.0,coconut milk drink,derived,
+1.0,first age baby milk powder,derived,
+1.0,cantal cheese half matured from cow's milk,derived,
+1.0,cream with 25% milk fat,derived,
+1.0,milk filling,derived,
+1.0,cow's milk,derived,
+1.0,skimmed milk soft cheese,derived,
+1.0,whole milk yogurt,derived,
+1.0,skimmed milk yogurt powder,derived,
+1.0,pasteurized milk yogurt,derived,
+1.0,sheeps or goat milk,derived,
+1.0,pasteurized milk and cream,derived,
+1.0,whole milk,derived,
+1.0,skimmed milk,derived,
+1.0,milk from france,derived,
+1.0,cream with 22% milk fat,derived,
+1.0,milk,ingredient,
+1.0,milk powder,ingredient,
+1.0,casein,ingredient,
+1.0,whey,ingredient,
+1.0,lactose,ingredient,
+1.0,cream,ingredient,
+1.0,butter,ingredient,
+1.0,ghee,ingredient,
+2.0,egg,ingredient,
+2.0,albumin,ingredient,
+2.0,ovalbumin,ingredient,
+2.0,egg powder,ingredient,
+2.0,rehydrated egg white,derived,
+2.0,whole fresh eggs,derived,
+2.0,egg white powder,ingredient,egg
+2.0,fresh egg,derived,
+2.0,chick egg white or protein,derived,
+2.0,pasteurised free range egg yolk,derived,
+2.0,organic free range chicken eggs,derived,
+2.0,lumpfish egg,derived,
+2.0,whole powdered chicken egg,derived,
+2.0,pasteurised egg yolk,derived,
+2.0,eggs from caged hens,derived,
+2.0,liquid whole egg,derived,
+2.0,egg protein,derived,
+2.0,free range egg white,derived,
+2.0,eggs yolk powder from free range hens,derived,
+2.0,chicken egg yolk powder,derived,
+2.0,fresh category a eggs,derived,
+2.0,pasteurized fresh egg,derived,
+2.0,boiled egg,derived,
+2.0,organic chicken egg,derived,
+2.0,free range egg yolk,derived,
+2.0,pasteurised egg white powder,derived,
+2.0,egg flavour,derived,
+2.0,free range chicken eggs,derived,
+2.0,whole egg,derived,
+2.0,parmigiano reggiano,derived,
+2.0,free range pasteurised egg,derived,
+2.0,eggs from switzerland,derived,
+2.0,whole liquid pasteurised egg,derived,
+2.0,egg pasta,derived,
+2.0,egg yolk powder,derived,
+2.0,egg derivatives,derived,
+2.0,whole powdered egg,derived,
+2.0,chicken egg yolk,derived,
+2.0,poached egg,derived,
+2.0,egg white,derived,
+2.0,liquid egg,derived,
+2.0,cooked egg yolk,derived,
+2.0,liquid egg yolk,derived,
+2.0,barn eggs,derived,
+2.0,liquid egg white,derived,
+2.0,quail eggs,derived,
+2.0,raw duck egg,derived,
+2.0,liquid whole free range egg,derived,
+2.0,lysozyme from eggs,derived,
+2.0,fresh egg pasta,derived,
+2.0,category a eggs,derived,
+2.0,free range eggs,derived,
+2.0,powdered egg white,derived,
+2.0,tuna egg,derived,
+2.0,free range chicken egg yolk,derived,
+2.0,cooked egg white,derived,
+2.0,chicken egg,derived,
+2.0,sugared egg yolk,derived,
+2.0,taleggio,derived,
+2.0,dried egg,ingredient,egg
+2.0,egg albumin,ingredient,egg
+2.0,egg lecithin,ingredient,egg
+2.0,hard-boiled egg,derived,
+2.0,egg yolk,derived,
+2.0,large eggs,derived,
+2.0,duck egg,derived,
+2.0,soft-boiled egg,derived,
+2.0,concentrated whole egg,derived,
+2.0,chicken egg white,derived,
+3.0,peanuts,ingredient,peanut
+3.0,honey roasted peanuts,derived,
+3.0,peanut paste,derived,
+3.0,monkey nuts,ingredient,peanut
+3.0,crunchy peanut butter,derived,
+3.0,roasted peanuts,derived,
+3.0,milled roasted peanuts,derived,
+3.0,peanut with shell,derived,
+3.0,peanut,ingredient,
+3.0,arachis oil,ingredient,
+3.0,groundnut,ingredient,
+3.0,groundnut oil,ingredient,peanut
+3.0,peanut butter,ingredient,peanut
+3.0,shelled peanuts,derived,
+3.0,peanut flour,derived,
+3.0,peanut oil,derived,
+3.0,peanut oil or hazelnut oil,derived,
+3.0,organic roasted peanuts,derived,
+3.0,natural peanut flavouring,derived,
+4.0,tree nut,derived,
+26.0,cashew,ingredient,
+4.0,hazelnut,ingredient,
+4.0,pecan,ingredient,
+29.0,walnut,ingredient,
+4.0,pistachio,ingredient,
+22.0,almond,ingredient,
+5.0,soy protein,derived,
+5.0,dehydrated soy protein,derived,
+5.0,hulled soya bean,derived,
+5.0,partially hydrogenated soybean oil,derived,
+5.0,textured soy protein,derived,
+5.0,gmo-free soy lecithin,derived,
+5.0,soy bran,derived,
+5.0,soya flour restructured and rehydrated,derived,
+5.0,whole soybean grain,derived,
+5.0,soy sauce,derived,
+5.0,soyabean,ingredient,soy
+5.0,soybeans,ingredient,soy
+5.0,soybean paste,ingredient,soy
+5.0,miso paste,ingredient,soy
+5.0,miso,ingredient,soy
+5.0,soy flour,ingredient,soy
+5.0,soya bean paste,derived,
+5.0,natto,ingredient,soy
+5.0,soybean oil,ingredient,soy
+5.0,soya flower,derived,
+5.0,soya bean,derived,
+5.0,hydrolysed soy protein,derived,
+5.0,rehydrated soy fiber,derived,
+5.0,soy fiber,derived,
+5.0,light soy sauce,derived,
+5.0,rehydrated soy protein,derived,
+5.0,soy protein isolate,derived,
+5.0,black soy bean,derived,
+5.0,soya oil,derived,
+5.0,restructured soya flour,derived,
+5.0,soy preparation,derived,
+5.0,sprouted soybeans,derived,
+5.0,proteic extruded soy,derived,
+5.0,sweet soy sauce,derived,
+5.0,soy and sesame sauce,derived,
+5.0,refined soya oil,derived,
+5.0,gmo-free hulled soya bean,derived,
+5.0,soy protein product,derived,
+5.0,soya bean fiber,derived,
+5.0,dark soy sauce,derived,
+5.0,soya flour,derived,
+5.0,green soy bean,derived,
+5.0,soya and sunflower lecithin,derived,
+5.0,hydrogenated soy oil,derived,
+5.0,non-gmo soybean oil,derived,
+5.0,soya lecithin,derived,
+5.0,soya milk,ingredient,soy
+5.0,hydrolyzed soy protein,ingredient,soy
+5.0,soy extract,ingredient,soy
+5.0,doubanjiang,ingredient,soy
+5.0,soy base,derived,
+5.0,fermented soybean paste,ingredient,soy
+5.0,tempeh,ingredient,soy
+5.0,soy,ingredient,
+5.0,soybean,ingredient,
+5.0,soya,ingredient,
+5.0,soy lecithin,ingredient,
+5.0,tofu,ingredient,
+5.0,edamame,ingredient,
+6.0,whole grain durum wheat,derived,
+6.0,wheat protein isolate,derived,
+6.0,pre-cooked durum wheat,derived,
+6.0,cooked wheat,derived,
+6.0,sprouted wheat,derived,
+6.0,wheat glucose-fructose syrup,derived,
+6.0,wheat flour preparation,derived,
+6.0,whole spelt and wheat kernels,derived,
+6.0,whole wheat,derived,
+6.0,durum wheat flour,derived,
+6.0,caramelized malted wheat flour,derived,
+6.0,pre-gelatinized wheat flour,derived,
+6.0,wheat,ingredient,
+6.0,wheat flour t-1050,derived,
+6.0,wheat sourdough,derived,
+6.0,whole rye and durum wheat sourdough,derived,
+6.0,soft wheat flour,derived,
+6.0,wheat protein,derived,
+6.0,soft wheat,derived,
+6.0,wheat starch,derived,
+6.0,whole wheat bulgur,derived,
+6.0,wheat and whole rye sourdough,derived,
+6.0,durum wheat sourdough,derived,
+6.0,wheat fiber,derived,
+6.0,wheat flour type 110,derived,
+6.0,durum wheat bulgur,derived,
+6.0,wheat syrup,derived,
+6.0,wheat flakes,derived,
+6.0,khorasan wheat,derived,
+6.0,whole wheat groats,derived,
+6.0,wheat bran,derived,
+6.0,whole wheat kernels,derived,
+6.0,wheat flour type 00,derived,
+6.0,wheat flour type 0,derived,
+6.0,wheat grain,derived,
+6.0,einkorn wheat,derived,
+6.0,wheat stalk fiber,derived,
+6.0,fortified wheat flour,derived,
+6.0,dextrinated wheat flour,derived,
+6.0,wheat maltodextrin,derived,
+6.0,hydrolyzed wheat protein,derived,
+6.0,wheat flour type 2,derived,
+6.0,wheat semolina,derived,
+6.0,semi-whole durum wheat semolina,derived,
+6.0,whole durum wheat semolina pasta,derived,
+6.0,bread crumbs,ingredient,wheat
+6.0,whole durum wheat semolina,derived,
+6.0,dried wheat sourdough,derived,
+6.0,triticale,ingredient,wheat
+6.0,kamut,ingredient,wheat
+6.0,einkorn,ingredient,wheat
+6.0,emmer,ingredient,wheat
+6.0,udon noodles,ingredient,wheat
+6.0,finely ground durum wheat,derived,
+6.0,farro,ingredient,wheat
+6.0,spelt,ingredient,wheat
+6.0,khorasan wheat flour,derived,
+6.0,wheat tortilla,derived,
+6.0,fortified british wheat flour,derived,
+6.0,wheat gluten,derived,
+6.0,superior quality durum wheat semolina,derived,
+6.0,durum whole wheat flour,derived,
+6.0,wheat malt,derived,
+6.0,organic whole durum wheat semolina,derived,
+6.0,pregelatinized wheat starch,derived,
+6.0,wheat or corn dextrose,derived,
+6.0,wheat cakes,derived,
+6.0,wheat glucose syrup,derived,
+6.0,whole wheat flakes,derived,
+6.0,dark wheat flour,derived,
+6.0,ramen noodles,ingredient,wheat
+6.0,gluten free wheat fiber,derived,
+6.0,wheat crispbread,derived,
+6.0,wheat flour type 500,derived,
+6.0,rehydrated wheat protein,derived,
+6.0,wheat flour type 550,derived,
+6.0,malted wheat flakes,derived,
+6.0,wheat groats,derived,
+6.0,wheat breadcrumbs,derived,
+6.0,malted wheat flour,derived,
+6.0,modified wheat starch,derived,
+6.0,partially modified wheat starch,derived,
+6.0,wheat flour type 1,derived,
+6.0,wheat bulgur,derived,
+6.0,puffed wheat,derived,
+6.0,durum wheat semolina pasta,derived,
+6.0,wheat flour type 65,derived,
+6.0,soft whole wheat flour,derived,
+6.0,wheat germ,derived,
+6.0,semi-wholemeal wheat flour,derived,
+6.0,refined wheat flour,derived,
+6.0,rye and durum wheat sourdough,derived,
+6.0,wheat flour type 150,derived,
+6.0,pasta made from wheat flour,derived,
+6.0,rivet wheat,derived,
+6.0,wheat flour type 55,derived,
+6.0,whole wheat flour,derived,
+6.0,durum wheat,derived,
+6.0,durum wheat kernels,derived,
+6.0,barley and wheat malt,derived,
+6.0,semolina,ingredient,
+6.0,gluten,ingredient,
+6.0,wheat flour,ingredient,
+6.0,durum,ingredient,
+6.0,dark durum wheat flour,derived,
+6.0,british wholegrain wheat,derived,
+6.0,durum wheat semolina,derived,
+6.0,rehydrated nuckwheat,derived,
+6.0,wheat flour type 850 semi-white,derived,
+6.0,wheat dextrose,derived,
+6.0,textured wheat protein,derived,
+6.0,fermented wheat starch,derived,
+7.0,common cuttlefish,derived,
+7.0,spineless cuttlefish,derived,
+7.0,deepwater redfish,derived,
+7.0,white fish fillets,derived,
+7.0,fish gelatine,derived,
+7.0,oarfish,derived,
+7.0,spiny scorpionfish,derived,
+7.0,fish stock,derived,
+7.0,saltwater fish,derived,
+7.0,shellfish,derived,
+7.0,crayfish,derived,
+7.0,spotted wolffish,derived,
+7.0,fish meat,derived,
+7.0,red swamp crayfish,derived,
+7.0,cuttlefish,derived,
+7.0,shellfish fond,derived,
+7.0,anchovy,ingredient,
+7.0,tuna,ingredient,
+31.0,salmon,ingredient,
+7.0,crayfish or shrimp,derived,
+7.0,atlantic wolffish,derived,
+7.0,raw anglerfish,derived,
+7.0,garfish,derived,
+7.0,scorpion fish,derived,
+7.0,natural fish flavouring,derived,
+7.0,fish,ingredient,
+7.0,white fish,derived,
+7.0,cod,ingredient,
+7.0,freshwater fish,derived,
+7.0,raw golden redfish,derived,
+7.0,fish oil,derived,
+7.0,steamed spiny scorpionfish,derived,
+7.0,shellfish extract,derived,
+7.0,fish protein,derived,
+7.0,oily fish,derived,
+7.0,raw spotted wolffish,derived,
+7.0,pharaoh cuttlefish,derived,
+7.0,swordfish,derived,
+7.0,anglerfish,derived,
+7.0,white fish meat,derived,
+7.0,rockfish,derived,
+7.0,fish sauce,derived,
+8.0,lobster,ingredient,
+20.0,crab,ingredient,
+19.0,prawn,ingredient,
+19.0,shrimp,ingredient,
+9.0,sesame extract,ingredient,sesame
+9.0,goma,ingredient,sesame
+9.0,sesame seeds,derived,
+9.0,sesame paste,derived,
+9.0,toasted sesame oil,derived,
+9.0,virgin sesame oil,derived,
+9.0,refined sesame oil,derived,
+9.0,husked sesame seed,derived,
+9.0,toasted sesame,ingredient,sesame
+9.0,sesame powder,ingredient,sesame
+9.0,sesame salt,ingredient,sesame
+9.0,sesame flour,ingredient,sesame
+9.0,black sesame,derived,
+9.0,sesame,ingredient,
+9.0,tahini,ingredient,
+9.0,sesame oil,ingredient,
+9.0,husked and grilled sesame seed,derived,
+9.0,white sesame seeds,derived,
+9.0,white sesame,derived,
+9.0,sesame seed bun,derived,
+9.0,organic sesame oil,derived,
+9.0,organic sesame seeds,derived,
+10.0,brown mustard seed,derived,
+10.0,black mustard seed,derived,
+10.0,strong mustard,derived,
+10.0,dijon mustard,derived,
+10.0,mustard sauce,derived,
+10.0,english mustard,derived,
+10.0,mustard oil,derived,
+10.0,yellow mustard seed,derived,
+10.0,strong dijon mustard,derived,
+10.0,prepacked mustard sauce,derived,
+10.0,yellow and brown mustard seeds,derived,
+10.0,brown mustard,derived,
+10.0,mustard,ingredient,
+10.0,mustard flavouring,derived,
+10.0,mustard seed,ingredient,
+11.0,celery seed,derived,
+11.0,celery powder,derived,
+11.0,celery puree,derived,
+11.0,concentrated celery juice,derived,
+11.0,celery stalk,derived,
+11.0,celery leaves,derived,
+11.0,powdered concentrated celery juice,derived,
+11.0,celery juice,derived,
+11.0,celery flavouring,derived,
+11.0,celery salt,ingredient,
+11.0,celery,ingredient,
+12.0,lupin,ingredient,
+12.0,yellow lupin,derived,
+12.0,white lupin,derived,
+12.0,lupin grit,derived,
+12.0,blue lupin,derived,
+12.0,lupin bean,derived,
+12.0,lupin flour,ingredient,
+13.0,sulphite,ingredient,
+13.0,sulfite,ingredient,
+13.0,sulfur dioxide,ingredient,
+17.0,roasted buckwheat kasha,derived,
+17.0,buckwheat honey,derived,
+17.0,soba flour,ingredient,buckwheat
+17.0,soba,ingredient,buckwheat
+17.0,puffed buckwheat,derived,
+17.0,buckwheat grain,derived,
+17.0,buckwheat groats,ingredient,buckwheat
+17.0,buckwheat germ,ingredient,buckwheat
+17.0,buckwheat noodles,ingredient,buckwheat
+17.0,buckwheat,derived,
+17.0,buckwheat husk,derived,
+17.0,extruded buckwheat flour,derived,
+17.0,buckwheat grit,derived,
+17.0,buckwheat starch,ingredient,buckwheat
+17.0,buckwheat flour,derived,
+17.0,whole grain buckwheat flour,derived,
+17.0,whole buckwheat flakes,derived,
+17.0,sprouted buckwheat,derived,
+17.0,wholemeal buckwheat,derived,
+17.0,buckwheat flakes,derived,
+19.0,shrimp extract,ingredient,shrimp
+19.0,shrimp crackers,ingredient,shrimp
+19.0,prawn powder,ingredient,shrimp
+19.0,dried shrimp,ingredient,shrimp
+19.0,shrimp paste,ingredient,shrimp
+19.0,shrimp powder,ingredient,shrimp
+19.0,ebi,ingredient,shrimp
+20.0,crab powder,ingredient,crab
+20.0,king crab,ingredient,crab
+20.0,snow crab,ingredient,crab
+20.0,crab extract,ingredient,crab
+20.0,crab flavour,ingredient,crab
+20.0,crab paste,ingredient,crab
+20.0,kani,ingredient,crab
+20.0,crab meat,ingredient,crab
+21.0,abalone,,abalone
+22.0,almond extract,ingredient,almond
+22.0,almond flour,ingredient,almond
+22.0,almond paste,ingredient,almond
+22.0,blanched almonds,ingredient,almond
+22.0,almond oil,ingredient,almond
+22.0,raw almonds,ingredient,almond
+22.0,almonds,ingredient,almond
+22.0,almond powder,ingredient,almond
+22.0,almond milk,ingredient,almond
+22.0,almond protein,ingredient,almond
+22.0,almond butter,ingredient,almond
+23.0,dried squid,ingredient,squid
+23.0,squid ink,ingredient,squid
+23.0,squid extract,ingredient,squid
+23.0,squid,,squid
+23.0,squid powder,ingredient,squid
+23.0,ika,ingredient,squid
+23.0,calamari,ingredient,squid
+24.0,ikura,ingredient,salmon roe
+24.0,salmon caviar,ingredient,salmon roe
+24.0,salmon roe,,salmon roe
+24.0,fish roe (salmon),ingredient,salmon roe
+24.0,salted salmon roe,ingredient,salmon roe
+25.0,orange extract,ingredient,orange
+25.0,dried orange,ingredient,orange
+25.0,orange peel,ingredient,orange
+25.0,orange zest,ingredient,orange
+25.0,orange,,orange
+25.0,orange juice,ingredient,orange
+26.0,cashew nuts,ingredient,cashew nut
+26.0,cashew butter,ingredient,cashew nut
+26.0,cashew oil,ingredient,cashew nut
+26.0,cashew paste,ingredient,cashew nut
+26.0,cashew nut,,cashew nut
+27.0,kiwi,,kiwi
+27.0,kiwi juice,ingredient,kiwi
+27.0,kiwifruit,ingredient,kiwi
+27.0,dried kiwi,ingredient,kiwi
+27.0,kiwi extract,ingredient,kiwi
+28.0,ground beef,ingredient,beef
+28.0,beef stock,ingredient,beef
+28.0,beef,,beef
+28.0,wagyu,ingredient,beef
+28.0,beef fat,ingredient,beef
+28.0,beef powder,ingredient,beef
+28.0,beef jerky,ingredient,beef
+28.0,beef tallow,ingredient,beef
+28.0,dried beef,ingredient,beef
+28.0,bovine,ingredient,beef
+28.0,beef extract,ingredient,beef
+29.0,walnut paste,ingredient,walnut
+29.0,walnut pieces,ingredient,walnut
+29.0,walnuts,ingredient,walnut
+29.0,crushed walnuts,ingredient,walnut
+29.0,walnut oil,ingredient,walnut
+29.0,kurumi,ingredient,walnut
+31.0,sockeye salmon,ingredient,salmon
+31.0,pink salmon,ingredient,salmon
+31.0,atlantic salmon,ingredient,salmon
+31.0,salmon flakes,ingredient,salmon
+31.0,salmon powder,ingredient,salmon
+31.0,dried salmon,ingredient,salmon
+31.0,salmon extract,ingredient,salmon
+31.0,smoked salmon,ingredient,salmon
+31.0,salmon fillet,ingredient,salmon
+32.0,smoked mackerel,ingredient,mackerel
+32.0,saba,ingredient,mackerel
+32.0,mackerel flakes,ingredient,mackerel
+32.0,mackerel fillet,ingredient,mackerel
+32.0,dried mackerel,ingredient,mackerel
+32.0,mackerel extract,ingredient,mackerel
+32.0,mackerel,,mackerel
+32.0,mackerel powder,ingredient,mackerel
+34.0,dried chicken,ingredient,chicken
+34.0,chicken powder,ingredient,chicken
+34.0,chicken breast,ingredient,chicken
+34.0,chicken fat,ingredient,chicken
+34.0,chicken lard,ingredient,chicken
+34.0,chicken,,chicken
+34.0,chicken stock,ingredient,chicken
+34.0,roast chicken,ingredient,chicken
+34.0,chicken extract,ingredient,chicken
+34.0,chicken thigh,ingredient,chicken
+34.0,chicken broth,ingredient,chicken
+35.0,banana juice,ingredient,banana
+35.0,banana powder,ingredient,banana
+35.0,banana extract,ingredient,banana
+35.0,banana puree,ingredient,banana
+35.0,dried banana,ingredient,banana
+35.0,banana,,banana
+36.0,pork fat,ingredient,pork
+36.0,prosciutto,ingredient,pork
+36.0,ground pork,ingredient,pork
+36.0,pork,,pork
+36.0,pork belly,ingredient,pork
+36.0,pork extract,ingredient,pork
+36.0,ham,ingredient,pork
+36.0,lard,ingredient,pork
+36.0,pork lard,ingredient,pork
+36.0,pork powder,ingredient,pork
+36.0,pork stock,ingredient,pork
+36.0,pork rinds,ingredient,pork
+36.0,bacon,ingredient,pork
+38.0,peach extract,ingredient,peach
+38.0,peach,,peach
+38.0,peach puree,ingredient,peach
+38.0,peach juice,ingredient,peach
+38.0,dried peach,ingredient,peach
+39.0,nagaimo,ingredient,yam
+39.0,yam powder,ingredient,yam
+39.0,yamaimo,ingredient,yam
+39.0,mountain yam,ingredient,yam
+39.0,yam extract,ingredient,yam
+39.0,japanese yam,ingredient,yam
+39.0,yam,,yam
+40.0,dried apple,ingredient,apple
+40.0,applesauce,ingredient,apple
+40.0,apple vinegar,ingredient,apple
+40.0,apple extract,ingredient,apple
+40.0,apple powder,ingredient,apple
+40.0,apple cider,ingredient,apple
+40.0,apple puree,ingredient,apple
+40.0,apple,,apple
+40.0,apple juice,ingredient,apple
+41.0,pork gelatin,ingredient,gelatin
+41.0,collagen,ingredient,gelatin
+41.0,gelatine,ingredient,gelatin
+41.0,fish gelatin,ingredient,gelatin
+41.0,beef gelatin,ingredient,gelatin
+41.0,gelatin,,gelatin
+42.0,macadamia oil,ingredient,macadamia nut
+42.0,macadamia,ingredient,macadamia nut
+42.0,macadamia butter,ingredient,macadamia nut
+42.0,macadamia paste,ingredient,macadamia nut
+42.0,macadamia nuts,ingredient,macadamia nut
+42.0,macadamia nut,ingredient,macadamia nut
+,matsutake mushroom,,matsutake mushroom

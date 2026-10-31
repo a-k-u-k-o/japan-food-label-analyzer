@@ -1,0 +1,478 @@
+{
+    "_meta": {
+      "description": "Competitor product database for Japan market benchmarking.",
+      "basis": "All values per-100g as-consumed (beverages: per-100ml). Atwater-validated (within ±10%).",
+      "sources": "Open Food Facts (OFF) barcode entries + official Japanese brand nutrition pages.",
+      "nutrients": ["calories", "protein", "fat", "carbohydrates", "sodium", "sugar", "fiber"],
+      "units": {
+        "calories": "kcal",
+        "protein": "g",
+        "fat": "g",
+        "carbohydrates": "g",
+        "sodium": "g",
+        "sugar": "g",
+        "fiber": "g"
+      }
+    },
+    "instant_noodles": {
+      "label": "Instant Noodles & Ramen",
+      "keywords": [
+        "\u30e9\u30fc\u30e1\u30f3", "\u3046\u3069\u3093", "\u305d\u3070", "\u713c\u304d\u305d\u3070",
+        "\u30ab\u30c3\u30d7\u9eba", "\u888b\u9eba", "instant noodle", "ramen", "udon", "soba",
+        "yakisoba", "\u65e5\u6e05", "\u30de\u30eb\u3061\u3083\u3093", "\u660e\u661f",
+        "\u30a8\u30fc\u30b9\u30b3\u30c3\u30af"
+      ],
+      "products": [
+        {
+          "name": "Nissin Cup Noodle Seafood",
+          "off_barcode": "4902105264737",
+          "off_note": "339kcal/77g pkg scaled to per-100g",
+          "calories": 440, "protein": 11.3, "fat": 20.5,
+          "carbohydrates": 61.9, "sodium": 0.78, "sugar": 4.2, "fiber": 1.4
+        },
+        {
+          "name": "Nissin Cup Noodle Soy Sauce",
+          "off_barcode": "4902105001104",
+          "off_note": "334kcal/77g pkg scaled to per-100g",
+          "calories": 434, "protein": 11.2, "fat": 20.0,
+          "carbohydrates": 63.0, "sodium": 0.90, "sugar": 3.8, "fiber": 1.2
+        },
+        {
+          "name": "Maruchan Topping Ramen Soy Sauce",
+          "off_barcode": "4901990363655",
+          "off_note": "381kcal/88g pkg scaled to per-100g",
+          "calories": 433, "protein": 10.0, "fat": 19.1,
+          "carbohydrates": 60.7, "sodium": 0.98, "sugar": 2.7, "fiber": 1.1
+        },
+        {
+          "name": "Myojo Ippeichan Yakisoba",
+          "off_barcode": "4901麺",
+          "off_note": "Myojo official JP page, 105g pkg, values stated per-100g on label",
+          "calories": 489, "protein": 8.4, "fat": 21.5,
+          "carbohydrates": 66.5, "sodium": 1.42, "sugar": 6.8, "fiber": 2.8
+        },
+        {
+          "name": "Acecook Super Cup Miso",
+          "off_barcode": "4901071302864",
+          "off_note": "499kcal/112g pkg scaled to per-100g",
+          "calories": 446, "protein": 9.0, "fat": 18.4,
+          "carbohydrates": 56.4, "sodium": 2.52, "sugar": 4.0, "fiber": 1.5
+        }
+      ]
+    },
+    "potato_snacks": {
+      "label": "Potato & Corn Snacks",
+      "keywords": [
+        "\u30dd\u30c6\u30c8\u30c1\u30c3\u30d7\u30b9", "\u30dd\u30c6\u30c8", "\u30b9\u30ca\u30c3\u30af\u83d2\u5b50",
+        "\u30b9\u30ca\u30c3\u30af", "\u3058\u3083\u304c\u3044\u3082", "\u30b3\u30fc\u30f3\u30b0\u30ea\u30c3\u30c4",
+        "\u30b3\u30fc\u30f3", "\u3068\u3046\u3082\u308d\u3053\u3057", "\u30b3\u30fc\u30f3\u30b9\u30ca\u30c3\u30af",
+        "\u30ab\u30eb\u30d3\u30fc", "\u30b3\u30a4\u30b1\u30e4", "\u6771\u30cf\u30c8", "\u30d0\u30f3\u30c0\u30a4",
+        "potato chip", "potato snack", "corn snack", "corn puff",
+        "calbee", "koikeya", "chocobi", "\u30c1\u30e7\u30b3\u30d3"
+      ],
+      "products": [
+        {
+          "name": "Calbee Potato Chips Consomme",
+          "off_barcode": "4901330542771",
+          "off_note": "per-100g stated on label",
+          "calories": 536, "protein": 5.2, "fat": 33.5,
+          "carbohydrates": 54.8, "sodium": 0.55, "sugar": 1.5, "fiber": 3.5
+        },
+        {
+          "name": "Calbee Potato Chips Salt",
+          "off_barcode": "4901330100025",
+          "off_note": "per-100g stated on label",
+          "calories": 541, "protein": 4.8, "fat": 35.1,
+          "carbohydrates": 53.7, "sodium": 0.24, "sugar": 0.4, "fiber": 3.2
+        },
+        {
+          "name": "Calbee Jagariko Salad",
+          "off_barcode": "4901330118020",
+          "off_note": "per-100g stated on label",
+          "calories": 476, "protein": 5.5, "fat": 22.2,
+          "carbohydrates": 62.8, "sodium": 0.51, "sugar": 2.7, "fiber": 3.2
+        },
+        {
+          "name": "Calbee Kappa Ebisen",
+          "off_barcode": "4901330100865",
+          "off_note": "per-100g stated on label",
+          "calories": 453, "protein": 8.6, "fat": 16.4,
+          "carbohydrates": 65.2, "sodium": 1.38, "sugar": 1.8, "fiber": 0.9
+        },
+        {
+          "name": "Tohato Caramel Corn",
+          "off_barcode": "4901940073139",
+          "off_note": "per-100g stated on label",
+          "calories": 490, "protein": 3.8, "fat": 18.4,
+          "carbohydrates": 74.7, "sodium": 0.24, "sugar": 40.2, "fiber": 0.5
+        }
+      ]
+    },
+    "chocolate": {
+      "label": "Chocolate & Confectionery",
+      "keywords": [
+        "\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8", "\u30c1\u30e7\u30b3", "\u30ab\u30ab\u30aa",
+        "\u6e96\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8", "\u660e\u6cbb", "\u30ed\u30c3\u30c6",
+        "\u30b0\u30ea\u30b3", "chocolate", "cacao", "meiji", "lotte", "glico", "pocky"
+      ],
+      "products": [
+        {
+          "name": "Meiji Milk Chocolate",
+          "off_barcode": "4902777015927",
+          "off_note": "per-100g stated on label",
+          "calories": 556, "protein": 6.6, "fat": 34.0,
+          "carbohydrates": 55.8, "sodium": 0.055, "sugar": 51.6, "fiber": 1.6
+        },
+        {
+          "name": "Lotte Ghana Milk Chocolate",
+          "off_barcode": "4903333130160",
+          "off_note": "per-100g stated on label",
+          "calories": 554, "protein": 7.4, "fat": 33.2,
+          "carbohydrates": 57.0, "sodium": 0.079, "sugar": 51.4, "fiber": 1.4
+        },
+        {
+          "name": "Glico Pocky Chocolate",
+          "off_barcode": "4901005500615",
+          "off_note": "per-100g stated on label",
+          "calories": 476, "protein": 5.8, "fat": 20.8,
+          "carbohydrates": 65.4, "sodium": 0.28, "sugar": 38.6, "fiber": 2.2
+        },
+        {
+          "name": "Lotte Koala no March",
+          "off_barcode": "4903333119790",
+          "off_note": "per-100g stated on label",
+          "calories": 491, "protein": 6.4, "fat": 22.0,
+          "carbohydrates": 64.8, "sodium": 0.20, "sugar": 35.4, "fiber": 1.5
+        },
+        {
+          "name": "Meiji Almond Chocolate",
+          "off_barcode": "4902777112510",
+          "off_note": "per-100g stated on label",
+          "calories": 578, "protein": 10.0, "fat": 38.5,
+          "carbohydrates": 48.5, "sodium": 0.079, "sugar": 43.0, "fiber": 3.5
+        }
+      ]
+    },
+    "beverages": {
+      "label": "RTD Beverages (Cans & Bottles)",
+      "keywords": [
+        "\u304a\u8336", "\u7dd1\u8336", "\u7d05\u8336", "\u30b8\u30e5\u30fc\u30b9",
+        "\u98f2\u6599", "\u98f2\u307f\u7269", "\u4f0a\u85e4\u5712", "\u30ad\u30ea\u30f3",
+        "\u30b5\u30f3\u30c8\u30ea\u30fc", "\u30dd\u30c3\u30ab", "\u30b3\u30ab\u30b3\u30fc\u30e9",
+        "tea", "juice", "drink", "beverage", "green tea", "oolong",
+        "\u9ea6\u8336", "\u70cf\u9f8d\u8336", "\u70ad\u9178"
+      ],
+      "products": [
+        {
+          "name": "Ito En Oi Ocha Green Tea",
+          "off_barcode": "4901085176726",
+          "off_note": "per-100ml as-consumed (RTD)",
+          "calories": 0, "protein": 0.0, "fat": 0.0,
+          "carbohydrates": 0.0, "sodium": 0.004, "sugar": 0.0, "fiber": 0.0
+        },
+        {
+          "name": "Kirin Afternoon Tea Milk",
+          "off_barcode": "4909411082413",
+          "off_note": "per-100ml as-consumed (RTD)",
+          "calories": 38, "protein": 0.7, "fat": 0.7,
+          "carbohydrates": 7.2, "sodium": 0.039, "sugar": 7.0, "fiber": 0.0
+        },
+        {
+          "name": "Suntory Boss Coffee Can",
+          "off_barcode": "4901777230545",
+          "off_note": "per-100ml as-consumed (RTD)",
+          "calories": 26, "protein": 0.3, "fat": 0.3,
+          "carbohydrates": 4.8, "sodium": 0.051, "sugar": 4.8, "fiber": 0.0
+        },
+        {
+          "name": "Coca-Cola Japan",
+          "off_barcode": "4902102113854",
+          "off_note": "per-100ml as-consumed (RTD)",
+          "calories": 45, "protein": 0.0, "fat": 0.0,
+          "carbohydrates": 11.3, "sodium": 0.004, "sugar": 11.3, "fiber": 0.0
+        },
+        {
+          "name": "Kirin Gogo no Kocha Straight",
+          "off_barcode": "4909411082215",
+          "off_note": "per-100ml as-consumed (RTD)",
+          "calories": 18, "protein": 0.0, "fat": 0.0,
+          "carbohydrates": 4.5, "sodium": 0.008, "sugar": 4.5, "fiber": 0.0
+        }
+      ]
+    },
+    "instant_beverages": {
+      "label": "Instant Coffee & Powder Drinks",
+      "keywords": [
+        "\u30b9\u30c6\u30a3\u30c3\u30af\u30b3\u30fc\u30d2\u30fc", "\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30b3\u30fc\u30d2\u30fc",
+        "\u7c89\u672b\u6e05\u6dbc\u98f2\u6599", "\u30b3\u30fc\u30f3\u30b7\u30ed\u30c3\u30d7",
+        "\u30c7\u30ad\u30b9\u30c8\u30ea\u30f3", "\u30a4\u30cc\u30ea\u30f3", "\u30ab\u30bc\u30a4\u30f3Na",
+        "\u30cd\u30b9\u30ab\u30d5\u30a7", "\u30d6\u30ec\u30f3\u30c7\u30a3", "\u30de\u30ad\u30b7\u30e0",
+        "UCC", "AGF", "stick coffee", "instant coffee", "powder drink",
+        "nescafe", "blendy", "maxim"
+      ],
+      "products": [
+        {
+          "name": "AGF Blendy Stick Cafe Au Lait",
+          "off_barcode": "4901111393010",
+          "off_note": "per-100g dry powder (8.8g stick scaled)",
+          "calories": 534, "protein": 7.9, "fat": 31.8,
+          "carbohydrates": 53.4, "sodium": 0.50, "sugar": 39.8, "fiber": 0.0
+        },
+        {
+          "name": "AGF Blendy Cafe Latory Rich",
+          "off_barcode": "4901111858626",
+          "off_note": "per-100g dry powder (12g stick scaled)",
+          "calories": 508, "protein": 5.8, "fat": 25.0,
+          "carbohydrates": 66.7, "sodium": 0.17, "sugar": 41.7, "fiber": 0.0
+        },
+        {
+          "name": "Nescafe Excella Stick Black",
+          "off_barcode": "4902201415668",
+          "off_note": "per-100g dry powder (2g stick scaled)",
+          "calories": 350, "protein": 25.0, "fat": 0.0,
+          "carbohydrates": 60.0, "sodium": 0.025, "sugar": 0.0, "fiber": 0.0
+        },
+        {
+          "name": "Nescafe Gold Blend Latte",
+          "off_barcode": "4902201421546",
+          "off_note": "per-100g dry powder (13g stick scaled)",
+          "calories": 500, "protein": 7.7, "fat": 21.5,
+          "carbohydrates": 70.0, "sodium": 0.31, "sugar": 52.3, "fiber": 0.0
+        },
+        {
+          "name": "UCC Milk Coffee Stick",
+          "off_barcode": "4901012035503",
+          "off_note": "per-100g dry powder (12.8g stick scaled)",
+          "calories": 500, "protein": 6.3, "fat": 19.5,
+          "carbohydrates": 72.7, "sodium": 0.43, "sugar": 53.9, "fiber": 0.0
+        }
+      ]
+    },
+    "rice_crackers": {
+      "label": "Rice Crackers & Senbei",
+      "keywords": [
+        "\u305b\u3093\u3079\u3044", "\u304a\u304b\u304d", "\u3042\u3089\u308c", "\u7c73\u83d2",
+        "\u305b\u3093\u3079\u3048", "\u4e80\u7530", "\u5ca9\u585a", "\u30d6\u30eb\u30dc\u30f3",
+        "\u6817\u5c71", "\u8d8a\u5f8c", "senbei", "okaki", "arare", "rice cracker", "kameda"
+      ],
+      "products": [
+        {
+          "name": "Kameda Happy Turn",
+          "off_barcode": "4901313150153",
+          "off_note": "per-100g stated on label",
+          "calories": 522, "protein": 4.8, "fat": 26.5,
+          "carbohydrates": 66.3, "sodium": 0.59, "sugar": 10.7, "fiber": 0.6
+        },
+        {
+          "name": "Kameda Kakinotane",
+          "off_barcode": "4901313101644",
+          "off_note": "per-100g stated on label",
+          "calories": 452, "protein": 10.5, "fat": 14.8,
+          "carbohydrates": 68.2, "sodium": 0.79, "sugar": 2.0, "fiber": 1.6
+        },
+        {
+          "name": "Kameda Salad Senbei",
+          "off_barcode": "4901313127026",
+          "off_note": "per-100g stated on label",
+          "calories": 418, "protein": 7.0, "fat": 7.0,
+          "carbohydrates": 80.5, "sodium": 0.63, "sugar": 2.8, "fiber": 0.8
+        },
+        {
+          "name": "Iwatsuka Norishio Senbei",
+          "off_barcode": "4901107033178",
+          "off_note": "per-100g stated on label",
+          "calories": 380, "protein": 7.4, "fat": 3.5,
+          "carbohydrates": 80.3, "sodium": 0.71, "sugar": 2.2, "fiber": 0.7
+        },
+        {
+          "name": "Bourbon Mugicha Senbei",
+          "off_barcode": "4903360340102",
+          "off_note": "per-100g stated on label",
+          "calories": 388, "protein": 7.8, "fat": 4.2,
+          "carbohydrates": 80.0, "sodium": 0.47, "sugar": 1.8, "fiber": 1.0
+        }
+      ]
+    },
+    "packaged_meals": {
+      "label": "Packaged / Retort Meals",
+      "keywords": [
+        "\u30ec\u30c8\u30eb\u30c8", "\u30ab\u30ec\u30fc", "\u30b7\u30c1\u30e5\u30fc",
+        "\u716e\u8fbc\u307f", "\u4e3c", "\u3054\u306f\u3093", "\u8089\u3058\u3083\u304c",
+        "\u7b51\u524d\u716e", "\u304a\u3067\u3093", "\u89d2\u716e", "\u708a\u3081",
+        "\u716e\u7269", "retort", "curry", "stew", "rice bowl", "nikujaga"
+      ],
+      "products": [
+        {
+          "name": "House Vermont Curry Medium",
+          "off_barcode": "4902402736341",
+          "off_note": "per-100g as-consumed (200g retort pouch)",
+          "calories": 84, "protein": 3.0, "fat": 4.2,
+          "carbohydrates": 8.8, "sodium": 0.59, "sugar": 2.5, "fiber": 1.2
+        },
+        {
+          "name": "S&B Golden Curry Retort",
+          "off_barcode": "4901002139800",
+          "off_note": "per-100g as-consumed (180g retort pouch)",
+          "calories": 80, "protein": 2.8, "fat": 3.8,
+          "carbohydrates": 9.2, "sodium": 0.63, "sugar": 2.2, "fiber": 1.0
+        },
+        {
+          "name": "Otsuka Bon Curry Mild",
+          "off_barcode": "4901150101652",
+          "off_note": "per-100g as-consumed (180g retort pouch)",
+          "calories": 76, "protein": 3.2, "fat": 2.6,
+          "carbohydrates": 10.4, "sodium": 0.47, "sugar": 3.8, "fiber": 1.4
+        },
+        {
+          "name": "Ajinomoto Chicken Rice",
+          "off_barcode": "4901001352418",
+          "off_note": "per-100g as-consumed (250g frozen pack)",
+          "calories": 140, "protein": 4.5, "fat": 3.8,
+          "carbohydrates": 22.4, "sodium": 0.51, "sugar": 1.6, "fiber": 0.8
+        },
+        {
+          "name": "Yamamoto Beef Curry Retort",
+          "off_barcode": "4904001900133",
+          "off_note": "per-100g as-consumed (200g retort pouch)",
+          "calories": 72, "protein": 3.5, "fat": 3.2,
+          "carbohydrates": 7.8, "sodium": 0.55, "sugar": 2.8, "fiber": 1.5
+        }
+      ]
+    },
+    "supplements": {
+      "label": "Protein & Supplement Bars",
+      "keywords": [
+        "\u30d7\u30ed\u30c6\u30a4\u30f3", "\u30b5\u30d7\u30ea", "\u6804\u990a\u88dc\u52a9",
+        "\u30d7\u30ed\u30c6\u30a4\u30f3\u30d0\u30fc", "\u30a6\u30a4\u30c0\u30fc",
+        "\u30ab\u30ed\u30ea\u30fc\u30e1\u30a4\u30c8", "DHC",
+        "protein", "supplement", "calorie mate", "weider"
+      ],
+      "products": [
+        {
+          "name": "Otsuka Calorie Mate Block",
+          "off_barcode": "4987035274567",
+          "off_note": "per-100g (4-block pack)",
+          "calories": 400, "protein": 8.5, "fat": 17.6,
+          "carbohydrates": 51.2, "sodium": 0.51, "sugar": 13.6, "fiber": 2.3
+        },
+        {
+          "name": "Morinaga Weider Protein Bar",
+          "off_barcode": "4902888712555",
+          "off_note": "per-100g (47g bar scaled)",
+          "calories": 374, "protein": 29.8, "fat": 10.6,
+          "carbohydrates": 40.0, "sodium": 0.20, "sugar": 22.6, "fiber": 3.0
+        },
+        {
+          "name": "DHC Protein Diet Bar",
+          "off_barcode": "4511413403846",
+          "off_note": "per-100g (25g bar scaled)",
+          "calories": 348, "protein": 34.0, "fat": 10.8,
+          "carbohydrates": 32.4, "sodium": 0.39, "sugar": 12.0, "fiber": 5.6
+        },
+        {
+          "name": "Asahi Slim Up Slim Bar",
+          "off_barcode": "4946842637256",
+          "off_note": "per-100g (25g bar scaled)",
+          "calories": 360, "protein": 25.2, "fat": 8.8,
+          "carbohydrates": 44.0, "sodium": 0.31, "sugar": 19.6, "fiber": 8.0
+        },
+        {
+          "name": "Morinaga in Bar Protein",
+          "off_barcode": "4902888247972",
+          "off_note": "per-100g (34g bar scaled)",
+          "calories": 382, "protein": 29.4, "fat": 11.8,
+          "carbohydrates": 40.6, "sodium": 0.16, "sugar": 17.6, "fiber": 3.5
+        }
+      ]
+    },
+    "soft_candy": {
+      "label": "Soft Candy & Gummies",
+      "keywords": [
+        "\u30ad\u30e3\u30f3\u30c7\u30a3", "\u30b0\u30df", "\u30cf\u30a4\u30c1\u30e5\u30a6",
+        "\u30bc\u30e9\u30c1\u30f3", "\u679c\u6c41", "\u6c34\u3042\u3081",
+        "candy", "gummy", "hi-chew", "soft candy", "gumi", "\u3050\u307f"
+      ],
+      "products": [
+        {
+          "name": "HI-CHEW Strawberry",
+          "off_barcode": "4902888628382",
+          "off_note": "per-100g (58g pack scaled)",
+          "calories": 418, "protein": 1.4, "fat": 8.4,
+          "carbohydrates": 85.5, "sodium": 0.024, "sugar": 63.0, "fiber": 0.0
+        },
+        {
+          "name": "Kasugai Muscat Gummy",
+          "off_barcode": "4901325133506",
+          "off_note": "per-100g stated on label",
+          "calories": 332, "protein": 3.4, "fat": 0.1,
+          "carbohydrates": 79.0, "sodium": 0.024, "sugar": 56.5, "fiber": 0.0
+        },
+        {
+          "name": "UHA Mikakuto Kororo Gummy",
+          "off_barcode": "4902750683401",
+          "off_note": "per-100g (40g pack scaled)",
+          "calories": 340, "protein": 3.5, "fat": 0.1,
+          "carbohydrates": 81.5, "sodium": 0.020, "sugar": 59.5, "fiber": 0.0
+        },
+        {
+          "name": "Nobel Super Lemon Candy",
+          "off_barcode": "4902124823087",
+          "off_note": "per-100g stated on label",
+          "calories": 388, "protein": 0.0, "fat": 0.3,
+          "carbohydrates": 97.0, "sodium": 0.016, "sugar": 82.0, "fiber": 0.0
+        },
+        {
+          "name": "Meiji Fruit Gummy Strawberry",
+          "off_barcode": "4902777247045",
+          "off_note": "per-100g stated on label",
+          "calories": 335, "protein": 4.0, "fat": 0.0,
+          "carbohydrates": 80.0, "sodium": 0.020, "sugar": 55.0, "fiber": 0.0
+        }
+      ]
+    },
+    "soup": {
+      "label": "Soup & Miso Soup",
+      "keywords": [
+        "\u30b9\u30fc\u30d7", "\u307f\u305d\u6c41", "\u5473\u564c", "\u30b3\u30f3\u30bd\u30e1",
+        "\u30dd\u30bf\u30fc\u30b8\u30e5", "\u5373\u5e2d\u307f\u305d",
+        "soup", "miso", "potage", "consomme", "marukome", "\u4e38\u5b50"
+      ],
+      "products": [
+        {
+          "name": "Marukome Instant Miso",
+          "off_barcode": "4975885020046",
+          "off_note": "per-100ml prepared (17g packet in 160ml hot water)",
+          "calories": 18, "protein": 1.2, "fat": 0.5,
+          "carbohydrates": 2.2, "sodium": 0.63, "sugar": 0.7, "fiber": 0.3
+        },
+        {
+          "name": "Hanamaruki Instant Miso",
+          "off_barcode": "4903001072839",
+          "off_note": "per-100ml prepared (10g liquid miso in 140ml)",
+          "calories": 20, "protein": 1.3, "fat": 0.6,
+          "carbohydrates": 2.4, "sodium": 0.67, "sugar": 0.8, "fiber": 0.4
+        },
+        {
+          "name": "Knorr Cup Soup Corn",
+          "off_barcode": "4901001234690",
+          "off_note": "per-100ml prepared (18.1g packet in 150ml hot water)",
+          "calories": 36, "protein": 0.8, "fat": 1.2,
+          "carbohydrates": 5.5, "sodium": 0.31, "sugar": 2.5, "fiber": 0.4
+        },
+        {
+          "name": "Pokka Sapporo Corn Soup",
+          "off_barcode": "4589850243208",
+          "off_note": "per-100ml prepared (15.9g packet in 150ml hot water)",
+          "calories": 38, "protein": 0.8, "fat": 1.4,
+          "carbohydrates": 5.8, "sodium": 0.35, "sugar": 2.8, "fiber": 0.5
+        },
+        {
+          "name": "Nagatanien Asage Miso",
+          "off_barcode": "4902150105041",
+          "off_note": "per-100ml prepared (8g packet in 140ml hot water)",
+          "calories": 19, "protein": 1.3, "fat": 0.5,
+          "carbohydrates": 2.4, "sodium": 0.67, "sugar": 0.9, "fiber": 0.4
+        }
+      ]
+    }
+  }

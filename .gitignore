@@ -1,0 +1,112 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.pyc
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ── Environment variables ─────────────────────────────────────────────────────
+.env
+.env.local
+.env.production
+*.env
+
+# ── Streamlit ─────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── User data — never commit ──────────────────────────────────────────────────
+shared_data/
+data/scan_records.csv
+data/purchase_behavior.csv
+data/images/
+
+# ── Model cache — too large for git ──────────────────────────────────────────
+.cache/
+~/.cache/huggingface/
+models/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# ── Jupyter notebooks ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ── IDE / editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
+log/
+
+# ── Distribution / packaging ──────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+MANIFEST
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+coverage.xml
+*.cover
+
+# ── Temporary files ───────────────────────────────────────────────────────────
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+
+# ── Uploaded images (runtime only) ───────────────────────────────────────────
+data/images/*.jpg
+data/images/*.jpeg
+data/images/*.png
+data/images/*.webp
+data/images/*.gif
+
+# ── Keep data folder structure but not generated CSVs ────────────────────────
+!data/allergen_master.csv
+!data/allergen_tokens.csv
+!data/ingredient_sources.csv
+!data/japanese_food_additives.csv
+!data/food_products_cleaned.csv
+!data/diet_blocklists.json
+!data/product_database.json
+# Streamlit local telemetry id
+.streamlit/machine_id_v4
